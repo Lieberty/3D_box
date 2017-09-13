@@ -39,6 +39,7 @@ button {
 	height: 500px;
 	position: absolute;
 	background-size: 900px 500px;
+	background-color: black;
 }
 #pic_box li span:nth-of-type(1) {
 	background-image: url(https://github.com/Lieberty/3D_box/blob/master/img/1.PNG?raw=true);
