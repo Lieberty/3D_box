@@ -45,18 +45,18 @@ button {
 	width: 45px;
 }
 #pic_box li span:nth-of-type(2) {
-	background-image: url(https://github.com/Lieberty/3D_box/blob/master/img/1.PNG?raw=true);		
+	background-image: url(https://github.com/Lieberty/3D_box/blob/master/img/2.PNG?raw=true);		
 	transform: rotateX(90deg);
 	transform-origin: bottom;		
 	top: -500px;
 }
 #pic_box li span:nth-of-type(3) {
-	background-image: url(https://github.com/Lieberty/3D_box/blob/master/img/1.PNG?raw=true);		
+	background-image: url(https://github.com/Lieberty/3D_box/blob/master/img/3.PNG?raw=true);		
 	transform: rotateX(90deg);
 	transform: translateZ(-500px) rotateX(180deg);				
 }
 #pic_box li span:nth-of-type(4) {
-	background-image: url(img/4.png);
+	background-image: url(https://github.com/Lieberty/3D_box/blob/master/img/4.PNG?raw=true);
 	top: 500px;
 	transform: rotateX(-90deg);
 	transform-origin: top;
